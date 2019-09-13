@@ -1,0 +1,6 @@
+.overflow_messages{
+
+  height: 5%;
+  background-color: #eee;
+  overflow: scroll;
+}
